@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/sangeetha/Downloads/TestNGJarFiles/selenium-java-2.48.2/selenium-2.48.2/libs/testng-6.9.6.jar"/>
+	<classpathentry kind="lib" path="/Users/sangeetha/Downloads/testng-6.8.jar"/>
+	<classpathentry kind="lib" path="/Users/sangeetha/Downloads/TestNGJarFiles/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sangeetha/Downloads/TestNGJarFiles/selenium-chrome-driver-2.43.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
